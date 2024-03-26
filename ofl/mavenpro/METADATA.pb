@@ -34,9 +34,5 @@ source {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
   }
-  files {
-    source_file: "documentation/DESCRIPTION.en_us.html"
-    dest_file: "DESCRIPTION.en_us.html"
-  }
   branch: "main"
 }
