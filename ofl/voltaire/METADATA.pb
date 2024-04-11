@@ -12,13 +12,15 @@ fonts {
   full_name: "Voltaire Regular"
   copyright: "Copyright 2011 The Voltaire Project Authors (https://github.com/SorkinType/Voltaire)"
 }
+subsets: "cyrillic-ext"
+subsets: "greek-ext"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
 subsets: "vietnamese"
 source {
   repository_url: "https://github.com/SorkinType/Voltaire"
-  commit: "0954355156a43a9dc7d53c32a7bedc63a187d456"
+  commit: "552e0def6d66582c2132271b11243054e770d09a"
   files {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
