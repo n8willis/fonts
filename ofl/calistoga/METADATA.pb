@@ -18,7 +18,7 @@ subsets: "menu"
 subsets: "vietnamese"
 source {
   repository_url: "https://github.com/SorkinType/Calistoga"
-  commit: "29e91526013f0d5b53862fee3c5ce6c108394812"
+  commit: "cc64ba7fd6d533dac7338b94dc7fcb90ab2bc052"
   files {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
